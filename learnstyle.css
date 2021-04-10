@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Bookman Old Style;
+}
+
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(learnbg.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.5s ease;
+}
+
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.title{
+	position: absolute;
+	top: 22%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.link1{
+	position: absolute;
+	top: 28%;
+	left: 60%;
+	transform: translate(-50%, -50%);
+}
+
+.link2{
+	position: absolute;
+	top: 28%;
+	left: 85%;
+	transform: translate(-50%, -50%);
+}
+
+.link3{
+	position: absolute;
+	top: 55%;
+	left: 85%;
+	transform: translate(-50%, -50%);
+}
+
+.link4{
+	position: absolute;
+	top: 82%;
+	left: 60%;
+	transform: translate(-50%, -50%);
+}
+
+.link5{
+	position: absolute;
+	top: 55%;
+	left: 60%;
+	transform: translate(-50%, -50%);
+}
+
+.link6{
+	position: absolute;
+	top: 82%;
+	left: 85%;
+	transform: translate(-50%, -50%);
+}
+
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+
+.first{
+	display: block;
+	border-radius: 10px;
+	width: 280px;
+	height: 130px;
+}
