@@ -22,9 +22,9 @@ seeking quality content in these difficult times.
 Demo Video Link:
 ----------------
 
-[demo-video](https://drive.google.com/file/d/18mlZ-ipeBQsMTCaxr4sZukt1MFW-njIT/view?usp=sharing)
+[demo-video-site](https://drive.google.com/file/d/18mlZ-ipeBQsMTCaxr4sZukt1MFW-njIT/view?usp=sharing)
 <br>
-[demo-video](https://drive.google.com/file/d/12oacWEkhRFGrlAh5z6NcRcFR92yg29f0/view?usp=sharing)
+[demo-video-app](https://drive.google.com/file/d/12oacWEkhRFGrlAh5z6NcRcFR92yg29f0/view?usp=sharing)
 
 Presentation Link:
 ------------------
